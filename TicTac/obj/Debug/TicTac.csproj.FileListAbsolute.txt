@@ -1,0 +1,15 @@
+C:\Users\zero\source\repos\TicTac\TicTac\bin\Debug\TicTac.exe.config
+C:\Users\zero\source\repos\TicTac\TicTac\bin\Debug\TicTac.exe
+C:\Users\zero\source\repos\TicTac\TicTac\bin\Debug\TicTac.pdb
+C:\Users\zero\source\repos\TicTac\TicTac\obj\Debug\TicTac.csprojAssemblyReference.cache
+C:\Users\zero\source\repos\TicTac\TicTac\obj\Debug\MainWindow.g.cs
+C:\Users\zero\source\repos\TicTac\TicTac\obj\Debug\App.g.cs
+C:\Users\zero\source\repos\TicTac\TicTac\obj\Debug\TicTac_MarkupCompile.cache
+C:\Users\zero\source\repos\TicTac\TicTac\obj\Debug\TicTac_MarkupCompile.lref
+C:\Users\zero\source\repos\TicTac\TicTac\obj\Debug\MainWindow.baml
+C:\Users\zero\source\repos\TicTac\TicTac\obj\Debug\TicTac.g.resources
+C:\Users\zero\source\repos\TicTac\TicTac\obj\Debug\TicTac.Properties.Resources.resources
+C:\Users\zero\source\repos\TicTac\TicTac\obj\Debug\TicTac.csproj.GenerateResource.cache
+C:\Users\zero\source\repos\TicTac\TicTac\obj\Debug\TicTac.csproj.CoreCompileInputs.cache
+C:\Users\zero\source\repos\TicTac\TicTac\obj\Debug\TicTac.exe
+C:\Users\zero\source\repos\TicTac\TicTac\obj\Debug\TicTac.pdb
